@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm Prachit Gharat
 
 
+## I'm a IT Engineering Student and Python
 
 Here are some ideas to get you started:
 

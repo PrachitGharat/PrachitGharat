@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Prachit Gharat
 
 
-## I'm a IT Engineering Student and Python
+## I'm a IT Engineering Student and Python Developer
 
 Here are some ideas to get you started:
 
@@ -10,5 +10,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate with other content creator
 - 📫 How to reach me:Prachitgharat00@gmail.com
 - 😄 Pronouns: He/Him
-- 
--->
+

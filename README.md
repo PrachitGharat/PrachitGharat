@@ -12,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 
 [![Prachit's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrachitGharat)](https://github.com/anuraghazra/github-readme-stats)
+### Connect with me:
+
+<img align="left" alt="Prachit | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="Prachit | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />

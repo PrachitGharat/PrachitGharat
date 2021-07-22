@@ -1,9 +1,7 @@
 ### Hi there 👋 I'm Prachit Gharat
 
 
-## I'm a IT Engineering Student and Python Developer
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on MERN Stack Development
 - 🌱 I’m currently learning Python,Html.
